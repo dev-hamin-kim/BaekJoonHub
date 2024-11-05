@@ -28,7 +28,6 @@ func solution(_ nums:[Int]) -> Int {
             }
         }
     }
-
     return result
 }
 
